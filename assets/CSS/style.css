@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Clicker+Script&family=Poppins:wght@200;300;400;500;600;700&display=swap');
+body
+{
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+    font-size: 16px;
+    font-family: "poppins";
+}
+*{
+    margin: 0;
+    padding: 0;
+    outline: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+.section .container{
+    padding-top: 60px;
+    padding-bottom: 70px;
+}
+.padd-15{
+    padding-left: 15px;
+    padding-right: 15px;
+}
