@@ -63,7 +63,7 @@ section .container{
     height:70px;
     width: 100%;
     /* border: 1px solid black; */
-    /* z-index: 500; */
+    z-index: 500;
     position: fixed;
     display: flex;
     align-items: center;
